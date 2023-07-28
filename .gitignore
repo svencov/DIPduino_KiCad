@@ -1,2 +1,6 @@
 .DS_Store
 DIPduino-backups/
+DIPduino.xml
+fp-info-cache
+DIPduino.kicad_prl
+DIPduino.csv
